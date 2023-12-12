@@ -45,7 +45,7 @@ public class Sifre {
     
     
     
-    
+    scanner.close();
     
     }
 }
